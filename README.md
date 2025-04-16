@@ -64,11 +64,21 @@ Click "Diabetes Test Result" to get prediction
 ## File Structure
 
 diabetes-prediction-app/
-app.py                # Streamlit web application
-model_training.py     # Model training script
-trained_model.sav     # Pre-trained SVM model
-requirements.txt      # Python dependencies
- README.md             # This file
+
+**Streamlit web application**  
+-app.py
+
+**Model training script**    
+-model_training.py
+
+**Pre-trained SVM model**    
+-trained_model.sav
+
+**Python dependencies**      
+-requirements.txt 
+
+**This file**                
+-README.md          
 
 
 ## Model Details
