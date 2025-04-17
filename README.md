@@ -99,5 +99,5 @@ This project is licensed under the [MIT License](LICENSE).
 Acknowledgments
 Dataset: Pima Indians Diabetes Database
 
-Inspired by [Similar Project Name/Link]
+
 
